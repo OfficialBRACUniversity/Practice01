@@ -1,0 +1,14 @@
+.top-destination {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.destiny {
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+
+.places {
+    
+}
